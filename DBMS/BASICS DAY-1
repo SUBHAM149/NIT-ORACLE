@@ -1,0 +1,31 @@
+
+                                                                      TOPIC-1:DBMS[DATA BASE MANGEMENT SYSTEM]
+⦁	What is Data?
+=It is a raw fact (i.e. Characters , numbers , Special Characters and symbol).
+=It nevergive meaning full Statements.
+
+Ex:  10021 is Data       Smith is Data       12-09-2020 is Data
+     10023 is Data       subha is Data       13-25-2015 is Data
+     20235 is Data       rajma is Data        12-23-25 is Data
+
+⦁	What is Information?
+=Processing data is known as Information.
+=It always provide meaning full Statements.
+
+     ┌─────────────────────────────────────────────────────────┐
+EX:   Employee Id    | Employee Name     |     Employee DOJ
+      ─────────────────────────────────────────────────────────
+     10021 is Data       Smith is Data       12-09-2020 is Data
+     10023 is Data       subha is Data       13-25-2015 is Data
+     20235 is Data       rajma is Data       12-23-2015 is Data
+    └──────────────────────────────────────────────────────────┘
+
+
+⦁	What is Data Base?
+=It is a collection of inter related data/information of a particular business Organization.
+                                     ----------------
+
+
+
+
+
