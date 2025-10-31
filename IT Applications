@@ -1,0 +1,67 @@
+* IT Applications:[31/10/25]
+....................
+=In IT field we are intreating with two types of applications.
+=These Are
+ 1.Frontend Applications
+ 2.Backend Applications
+
+
+1.Frontend Application
+=======================
+=FEA(Frontend application) is an application where the end-user Are interacting with form is known as "FRONTEND APPLICATION".
+=To run frontend application we required "BROWESER".
+                                          --------
+    Ex: Home page , Register form , Login form , View Profile form.....etc.
+Design & Develops
+----------------
+=UI(HTML,CSS,JAVA SCRIPT,ANGULAR JS,JQUERY..Etc)
+
+2.Backend Application
+=====================
+=It again classified into two types
+      1.ServerSide Application
+      2.DataBase Application
+
+1.ServerSide Application
+--------------------------
+=Server Side Application we used for 
+     * Taking request from clint(Through browser).
+     * Developing Logic
+     * Validating
+     * Connecting to database
+     * Send back response to client
+=To run a Server Side Application we required  "WEB SERVER".
+//Design & Develops
+----------------
+=Server side Technologies(JAVA,.NET/.NET CORE,PYTHON,....etc)
+2.Data Base Application
+------------------------
+=These Application are used for storing, processing and retrieving data.
+=To run database Application we required "DATA BASE(DB) Server".
+ //Design & Develops
+--------------------
+=Data base Technologies (ORACLE,MY SQL,SQL SERVER ,POSTYRE SQL,....etc)
+                                                                  BACKEND TOOLS
+                                   ┌──────────────────────────────────────────────────────┐
+            ┌────────────────────┐   ┌────────────────────────┐   ┌────────────────────┐
+            │  FRONTEND TOOLS    │   │     BACKEND TOOLS             │   │     DATABASE│
+            ├────────────────────┤   ├────────────────────────┤   ├────────────────────┤
+            │   UI FORMS         │   │      SERVER            │   │   ********         │
+            │   ****             │   │   JAVA [JDBC]          │   │   ********         │
+USER ───▶  │   ****             │   │  .NET [ADO.NET]         │   │   ********        │
+            │   ****            │   │   PYTHON [PDBC]         │   │   ********         │
+            │   ****            │   │                         │   │   ********         │
+            └────────────────────┘   └────────────────────────┘   └────────────────────┘
+✅ API stands for Application Programming Interface.
+✅ JDBC stands for Java Database Connectivity.
+✅ ADO.NET stands for ActiveX Data Objects .NET.
+✅ PDBC stands for Python Database Connectivity.
+
+
+API-JDBC,ADO.NET,PDBC
+NOTE: Frontend Tools: HTML,CSS,JAVA SCRIPT,ANGULAR JS..etc.
+----- Backend Tools: JAVA,ORACLE,MY SQL,SQL SERVER,PYTHON,.NET..etc.
+
+                                                                                                                             
+
+
