@@ -1,0 +1,50 @@
+⦁	Where we use database?[01/0112025]
+
+=Data base Are used in different Applications in real time.
+      
+    >Banking Application:
+      Ex: SBI, HDFC, ICICI, CITY BANK,...etc.
+
+    >Health Care Application:
+      Ex: Apollo, Rainbow,Aims..etc.
+
+    >Educational & Universities:
+      Ex: Emirates, Air Asia, IRCTC, Red bus..etc.
+
+    >Government & Public Sector Application:
+      Ex: UIDAI(Aadhar project IN India )
+
+    >Telecommunication Application:
+      Ex: Airtel, Jio, Vodafone...etc.
+
+⦁	How to design a Database Application For Banks:
+
+   >TBL Branch (Store Bank Branch Details)
+     ->Branch code(primary key) ,branch name, Branch location.
+ 
+   >TBL Department(Store Department details under a branch)
+     ->Dept id(pk), Department name, Branch code(foreign key).
+
+   >TBL Employee(Employee details linked to department & Branch)
+     ->Employee(pk), Employee name, Designation, Salary, Department id(foreign key), Branch code(foreign key).
+
+   >TBL Customers(Store Customers Details)
+     ->Customer id(primary key), c name, Address, Branch code(foreign key).
+  
+   >TBL Account(Store Account details linked to customer's)
+     ->A/C NAME(PRIMARY KEY), A/C type, Balance, Customer id (foreign key).
+
+   >TBL Transaction(Store deposit , withdraw, Transfer details)
+     ->Transaction id(primary key), Transaction type, Transaction Time, Amount, A/C NUMBER(foreign key).
+
+⦁	Types of Database System:
+=There are two types of database system in REAL World.
+1-OLTPC (ONLINE TRANSACTION PROCESSING).
+2-OLAPC(ONLINE ANLITICAL PROCESSING).
+
+⦁	OLTPC=IT is a data base are used for "day-by-day" Transaction details.
+Ex: ORACLE, SQL SERVER, MY SQL, POSTYRE SQL,..etc.
+
+⦁	OLAP=IT is a data base are used for storing historical data, analyzing data, describing data and generating business reports for company Organization.
+Ex: Data warehouse,  Table all, MicroStrategy, bm congress, ...etc.
+
