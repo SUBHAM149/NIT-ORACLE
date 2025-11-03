@@ -1,0 +1,59 @@
+EX:INMORMATIC SSIS(MSBI) MICROSOFT BUSSINESS INTELIGENCE 
+,POWER BI,APCAHE,AIRFLOW.
+
+
+     
+[03/11/25]
+What is DBMS?
+=============
+-> DBMS is a software to use manage and maintain data/information with in the data base.
+-> By using DBMS  software we will perform the following Operations are:
+1.Creating database.
+2.Creating table.
+3.Inserting data(i.e. store).
+4.Updaiting Data(i.e.. manipulating)
+5.Selecting data(i.e. reading)
+6.Deleting Data(i.e. removing)
+
+->DBMS software will be act as an interface between user and database.
+User<--->DBMS(SW)<----->DATABASE
+
+Models Of DBMS:
+===============
+->There are three models in DBMS concept 
+1.Hierarchical Database Management System(HDBMS).
+Ex: Ims SW(Information management System).
+2.Network Database Management System(NDBMS).
+Ex: IDBMS SW ()Integrated DATABSE Management System).
+Note:
+=======
+->HDBMS,NDBMS Model are out dated in real time.
+3.RDBMS:(Relational database management System).
+================================================
+=>it is a more popular database System in real world.
+=>it again classified into two modules:  
+                                       1.Object relational DBMS.
+                                       2.Object Oriented DBMS.
+
+1.Object relational DBMS.
+⦁	In these database we are storing the data in the form of "TABLE" FORMAT(I.E Stored data).
+⦁	Table=(collection of columns and rows).
+⦁	Row=(Group of columns).
+⦁	Database=(Group of tables).
+⦁	A row can be called as "records/tuples"
+⦁	A column can be called as "Attributes/fields".
+⦁	Objects relational database are completely depends on "SQL DATABASE" IN REAL TIME.
+ 
+Ex: Oracle , MySQL, SQL server, POSTTYPE SQL,IBMDB2,..ETC.
+
+
+2.Object Oriented DBMS
+⦁	In these database we are Organizing data in the form of "OBJECTS" Format(i.e. Unstructured).
+⦁	Objects/Unstructured:
+>Audio
+>Video
+>Image
+>Text Documents
+⦁	Object oriented database are completely depends on "OPPS" CONCEPT BUT not "SQL" SO THAT THESE database are also called as " No SQL" IN REAL TIME.
+Ex: Mango DB, CSSANDRS , REDIS , OBJECT DB..ETC.
+
