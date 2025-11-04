@@ -1,0 +1,54 @@
+
+                                                   Topic-2:ORACLE
+Introduction to Oracle:
+=======================
+⦁	Oracle is a database SOFTWARE/RDBMS PRODUCT/ORDBMS MODULE/Backend tolls.
+⦁	Oracle was introduced by oracle corporation in 1979
+⦁	Oracle is one of the most power full and widely used  database in real world for storing , processing , manageing , maintaining, data permanently in hand disk and also providing high level security  for data in real world.
+⦁	Oracle sw can be deployed in any platform such as windows,linux,mac,solaries..etc.
+⦁	Oracle is a platform independent as RDBMS PRODUCT.
+
+WHAT IS PLATFORM?
+=======================
+⦁	It is a combination of operating system and micro-Processor.
+⦁	There are two types of Platform in real world.
+1.Platform dependent.
+2.Platform Independent.
+
+1.Platform dependent.
+----------------------------
+⦁	it is support only one operating system with combination of any micro-Processor.
+⦁	Ex: Cabal , Pascal and c++ .
+                    NOTRUN-->LINUX OS
+⦁	  C APP--->DEVLOP-->RUN--> WINDOWS AS ONLY
+                    NOTRUN-->MAC OS
+2.Platform Independent.
+------------------------
+⦁	IT supports only operating system with combination of any micro-Processor.
+⦁	Ex: Oracle ,My SQL, java,..NET CORE,PYTHON....ETC.
+                          run--->Linux
+⦁	Oracle--->develop-->Windows--->Windows
+                          run--->mac os
+                          run--->Solaris
+
+Version of Oracle Software:
+===========================
+⦁	The first version of Oracle Software is "Oracle 1.0" Version.
+1.Oracle 1.0
+2.Oracle 2.0
+3.Oracle 3.0
+4.Oracle 4.0
+5.Oracle 5.0
+6.Oracle 6.0
+7.Oracle 7.0
+8.Oracle 8.0 (up to 8.0 version Does not support multimedia like: image , video, Audio )
+-------------
+9.Oracle 8i(internet)
+10.Oracle 9i
+11.Oracle 10g(grid)(maintaining server or connecting more device)
+12.Oracle 11g
+13.Oracle 12c(cloud)(how much you requered you purches)
+14.Oracle 18c
+15.Oracle 19c---------->long term software
+16.Oracle 21c(very latest version)
+17.Oracle23c(very very latest version)
