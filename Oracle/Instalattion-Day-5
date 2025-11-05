@@ -1,0 +1,33 @@
+[05/11/25]
+* Types of Oracle Software Edition:
+===================================
+->There are two types of Oracle Edition :
+1.Oracle Express edition:
+--->Supporting oracle features Partially.
+Ex: Regubin , Purge, Partition table, clustering are not allowed.
+2.Oracle Enterprise Edition:
+--->Support all feature of Oracle
+Ex: Regubin, flash back, purge, partition table ,cluster. are allowed.
+
+* Working with Oracle:
+----------------------
+=>Once we installed  Oracle software internally There are two components are installed in the system by default.
+1.Client component.
+2.Server Component.
+
+
+1.Client component.
+------------------------
+⦁	By using client tool we will perform the following Operations.
+Step-1:User can connect to oracle Server
+-----------------------------------------
+>Open client tool:
+Enter user name: System(default user name)
+Enter Password: Lion(Created at installation time)
+Step-2:User can send request to Oracle server:
+----------------------------------------------
+Request: SQL server /SQL Connected.
+Step-3:User can get response from Oracle server:
+----------------------------------------------
+Response: Query output/Query request.
+Ex: SQL PLUS,SQL DEVLOPERS, TOUD,PI/SQL DEVLOPER.
